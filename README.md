@@ -1,32 +1,5 @@
 # 🧠ChatGPT 中文调教指南
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPlexPt%2Fawesome-chatgpt-prompts-zh&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
-
-ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，能够和你进行任何领域的对话。
-
-[国内中文版](https://chat.aimakex.com/i/1)
-
-它能够生成类似于人类写作的文本。您只需要给出提示或提出问题，它就可以生成你想要的东西。
-
-<div align=center>
-<img src="https://user-images.githubusercontent.com/15922823/219698816-5196a5a0-7669-495e-a1d3-02fdadd3f507.png" width="400"/> 
-  <p>本LOGO是由人工智能生成的，非常酷炫！</p>
-</div>
-
-
-**[在 GitHub 上查看](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)**
-
-**[在 Gitee 上查看](https://gitee.com/PlexPt/awesome-chatgpt-prompts-zh)**
-
-------
-
-## 基于GPT3.5 和 4.0 Turbo 的国内中文版智造喵
-
-智造喵  https://chat.aimakex.com
-
-![image](https://user-images.githubusercontent.com/15922823/232669433-f5fa80b7-c7ae-4274-9f06-ad510e655d39.png)
-
-
 
 ## 它能干什么? 
 
@@ -61,24 +34,9 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
 
 
 
-## 微信体验交流群
-
-加入ChatGPT体验交流群，与AI技术领域的专家和爱好者一起探讨最前沿的信息！与志同道合的人交流，共同提升你的知识水平！
-
-项目合作洽谈请联系微信 [点我](https://mp.weixin.qq.com/s/Ir7CadEXQnscxa1ZjDdOyw)   （请注明来意，如有关于仓库问题需讨论请参考下文入群讨论）。
-
-|                  直接加群                  |               如果前面的过期，加我拉你入群               |                          AI中文指南公众号                          |
-|:--------------------------------------:| :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="https://github.com/PlexPt/chatgpt-java/assets/15922823/7118fe56-b07f-4be4-a69c-c8b44ac10c43" width="300"/> | <img src="https://user-images.githubusercontent.com/15922823/230634011-289efbe1-f2b1-4b1e-bddb-f56f5ea6f5f6.jpg" width="300"/> |  <img src="https://user-images.githubusercontent.com/15922823/218004565-bb632624-b376-4f01-8ce2-d7065107bf4a.png" width="300"/> |
-
- 
 
 
-# 正经指南
 
-直接复制粘贴使用
-
-如需编程请使用https://github.com/PlexPt/awesome-chatgpt-prompts-zh/blob/main/prompts-zh.json 
 
 
 ## 充当 Linux 终端
@@ -721,8 +679,6 @@ A small dog that misses home, with a sad look on its face and its tail tucked be
 #### [一些有趣的玩法](./USEAGE.md)
 
 ## 中文语料库
-
- https://github.com/PlexPt/chatgpt-corpus
 
 大量不同分类的中文语料库，欢迎拿去炼丹，训练大模型。
 
